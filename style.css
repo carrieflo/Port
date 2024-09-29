@@ -60,7 +60,7 @@ li a:hover{
 }
 .box4{
     width: 1440px;
-    height: 880px;
+    height: 1020px;
     background-color: rgb(255, 255, 255);
     position: absolute;
     left: 0px;
@@ -69,11 +69,11 @@ li a:hover{
 }
 .box5{
     width: 1440px;
-    height: 10px;
+    height: 50px;
     background-color: rgb(242, 241, 238);;
     position: absolute;
     left: 0px;
-    top: 2770px;
+    top: 2820px;
     border-radius: 100px;
 }
 
@@ -87,35 +87,16 @@ li a:hover{
     top: 177px;
     border-radius: 50px;
 }
-/* #nama{
-    position:absolute;
-    left: 508px;
-    top: 335px;
-    font-size: 25px;
-    font-family:sans-serif;
-    letter-spacing: 2px;
-} */
-/* #pp{
-    position:absolute;
-    left: 647px;
-    top: 170px;
-}
+
 #nama{
     position:absolute;
-    left: 616px;
-    top: 317px;
+    left: 522px;
+    top: 341px;
     font-size: 25px;
     font-family:sans-serif;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
-#nama2{
-    position:absolute;
-    left: 649px;
-    top: 345px;
-    font-size: 22px;
-    font-family:sans-serif;
-    letter-spacing: 2px;
-} */
+
 #text{
     position:absolute;
     left: 530px;
@@ -367,40 +348,83 @@ li a:hover{
     top: 1995px;
     left: 250px;
     width: 450px;
-    height: 350px;
+    height: 510px;
     border-radius: 30px;
     background-color: rgb(242, 241, 238);
     padding-top: 5px;
 }
 #p1{
     position: absolute;
-    left: 84px;
+    left: 66px;
     top: 35px;
 }
 #texth{
     position: absolute;
-    left: 84px;
-    top: 35px;
+    left: 178px;
+    top: 215px;
+    font-size: 20px;
+}
+#texthi{
+    position: absolute;
+    text-align: justify;
+    padding-left: 45px;
+    padding-right: 45px;
+    /* font-family: sans-serif; */
+    top: 260px;
+}
+#w1{
+    position: absolute;
+    top: 440px;
+    left: 176px;
+}
+#g1{
+    position: absolute;
+    top: 447px;
+    left: 225px;
 }
 #port2{
     position:absolute;
     top: 1995px;
     right: 250px;
     width: 450px;
-    height: 350px;
+    height: 510px;
     border-radius: 30px;
     background-color: rgb(242, 241, 238);
     padding-top: 5px;
 }
+#p2{
+    position: absolute;
+    left: 75px;
+    top: 35px;
+}
+#textc{
+    position: absolute;
+    left: 197px;
+    top: 215px;
+    font-size: 20px;
+}
+#textcalm{
+    position: absolute;
+    text-align: justify;
+    padding-left: 45px;
+    padding-right: 45px;
+    /* font-family: sans-serif; */
+    top: 260px;
+}
+#w2{
+    position: absolute;
+    top: 427px;
+    left: 178px;
+}
 #cont{
     position:absolute;
     font-size: 35px;
-    top: 2500px;
+    top: 2640px;
     left: 638px;
 }
 #li{
     position:absolute;
-    top: 2615px;
+    top: 2755px;
     left: 652px;
     width: 150px;
     height: 40px;
@@ -410,7 +434,7 @@ li a:hover{
 }
 #li1{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 700px;
     font-size: 15px;
     color:white;
@@ -419,7 +443,7 @@ li a:hover{
 }
 #li1:hover{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 700px;
     color:white;
     text-decoration: underline;
@@ -427,7 +451,7 @@ li a:hover{
 }
 #email{
     position:absolute;
-    top: 2615px;
+    top: 2755px;
     left: 470px;
     width: 150px;
     height: 40px;
@@ -437,7 +461,7 @@ li a:hover{
 }
 #email1{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 525px;
     font-size: 15px;
     color:rgb(0, 0, 0);
@@ -446,7 +470,7 @@ li a:hover{
 }
 #email1:hover{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 525px;
     color:rgb(0, 0, 0);
     text-decoration: underline;
@@ -454,7 +478,7 @@ li a:hover{
 }
 #wa{
     position:absolute;
-    top: 2615px;
+    top: 2755px;
     left: 834px;
     width: 150px;
     height: 40px;
@@ -464,7 +488,7 @@ li a:hover{
 }
 #wa1{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 874px;
     font-size: 15px;
     color:rgb(0, 0, 0);
@@ -473,7 +497,7 @@ li a:hover{
 }
 #wa1:hover{
     position:absolute;
-    top: 2628px;
+    top: 2768px;
     left: 874px;
     color:rgb(0, 0, 0);
     text-decoration: underline;
